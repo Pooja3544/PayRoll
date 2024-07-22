@@ -1,0 +1,22 @@
+.header {
+    background-color: #008080;
+    color: white; 
+    text-align: left; 
+    padding: 10px; 
+    font-size: 10px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    display: flex;
+    justify-content: space-between; 
+    align-items: left; /* Center items vertically */
+}
+
+.header-button {
+    background-color: #ffffff; /* White background */
+    color: black;
+    border: black;
+    padding: 5px 10px; 
+    font-size: 16px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    transition: background-color 0.3s, color 0.3s; 
+}
